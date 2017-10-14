@@ -1,0 +1,4 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+uCertify                 | uCertify                   | https://wgu.ucertify.com/?func=load_course&course=WGU-N10-006-complete
+LabSim                   | LabSim                     | http://lrps.wgu.edu/provision/6147901

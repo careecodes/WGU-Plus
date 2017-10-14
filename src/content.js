@@ -1,12 +1,19 @@
-window.addEventListener("load", myMain, false);
+var waitTime = setInterval(checkLoaded, 500);
+clearInterval(waitTime);
 
-function myMain(evt) {
-  var waitTime = setInterval(checkLoaded, 500);
+chrome.extension.onMessage.addListener(function(request, sender, response) {
+  if (request.type === 'getDoc') {
+    waitTime = setInterval(checkLoaded, 500);
+  }
 
-  function checkLoaded() {
-    if (document.getElementsByClassName("responsive--hidden--sm responsive--hidden--xs ng-scope").length > 0)
-    {
-      clearInterval(waitTime);
+  return true;
+});
+
+function checkLoaded() {
+  if (document.getElementsByClassName("responsive--hidden--sm responsive--hidden--xs ng-scope").length > 0)
+  {
+    clearInterval(waitTime);
+    if (document.getElementsByClassName("wguplus_accordion").length < 1) {
       var myButton = document.createElement("button");
       var buttonHTML = "&nbsp;&nbsp;Quick Links";
       myButton.className = "wguplus_accordion";

@@ -1,0 +1,3 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+uCertify                 | uCertify                   | https://wgu.ucertify.com/?func=load_course&course=WGU-220-902-complete
