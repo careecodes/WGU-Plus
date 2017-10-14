@@ -5,7 +5,7 @@ Installing
 -----
 WGU+ is currently being added to the Chrome Webstore and should be available at the following link shortly:
 
-(WGU+)[https://chrome.google.com/webstore/detail/wgu+/chaofigalhkdhmphgaanmpbapfjlpjpd]
+[WGU+](https://chrome.google.com/webstore/detail/wgu+/chaofigalhkdhmphgaanmpbapfjlpjpd)
 
 Until is has been added, follow these instructions to install WGU+ immediately:
 
