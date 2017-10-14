@@ -3,6 +3,14 @@
   "name": "WGU+",
   "version": "0.1",
   "description": "A plugin to quickly show resources available for WGU classes",
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "browser_action": {
+    "default_icon": "icons/48.png"
+  },
   "content_scripts": [{
       "matches": ["https://my.wgu.edu/courses/course/*"],
       "js": ["content.js"],
