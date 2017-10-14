@@ -1,0 +1,49 @@
+button.wguplus_accordion {
+    background-color: #6eaac2;
+    color: #fff;
+    cursor: pointer;
+    padding: 3px;
+    width: 85%;
+    margin: 20px;
+    margin-bottom: 5px;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 110%;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.wguplus_accordion.active, button.wguplus_accordion:hover {
+    background-color: #4486a1;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+div.wguplus_panel {
+    padding: 0 18px;
+    background-color: white;
+    margin: 20px;
+    margin-top: 0px;
+    width: 85%;
+    border-radius: 5px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+div.wguplus_content {
+  margin: 10px;
+  margin-left: 0px;
+}
+
+td.wguplus_td_image {
+  text-align: center;
+  vertical-align: center;
+}
+
+td.wguplus_td_title {
+  padding: 0 15px 0 0;
+  text-align: center;
+  vertical-align: center;
+}

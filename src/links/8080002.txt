@@ -1,0 +1,4 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+uCertify                 | uCertify                   | https://wgu.ucertify.com/?func=load_course&course=WGU-data-apps
+Lynda                    | Lynda<br/>(SQL Tutorials)  | https://www.lynda.com/SQL-tutorials/Welcome/548044/635452-4.html

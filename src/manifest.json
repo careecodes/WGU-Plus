@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "WGU+",
+  "version": "0.1",
+  "description": "A plugin to quickly show resources available for WGU classes",
+  "content_scripts": [{
+      "matches": ["https://my.wgu.edu/courses/course/*"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+  }],
+  "web_accessible_resources": [
+    "images/ucertify.png",
+    "images/lynda.png",
+    "images/other.png",
+    "images/testout.png",
+    "links/*.txt"
+  ]
+}
