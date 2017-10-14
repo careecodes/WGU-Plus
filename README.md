@@ -39,7 +39,7 @@ Resources are added to a <CLASS_ID>.txt file in the links folder.
 7040001: https://my.wgu.edu/courses/course/7040001/course-material<br/>
 
 
-Within this file, you will find each resource on its own line in the following format:
+Within this file, you will find each resource on its own line in the following format:<br/>
 LINK_TYPE | LINK_NAME            | LINK
 
 <b>LINK_TYPE</b>: uCertify, Lynda, LabSim, or TestOut have icons built in. Any other <LINK_TYPE> will have a book as the icon.<br/>
