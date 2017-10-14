@@ -19,6 +19,8 @@ Description
 This chrome extension gives you a "Quick Links" option on the right your current course's pages. This appears directly above the Course Mentor/Announcements/etc options.
 Once your course has been added to the extension, you will see quick links to uCertify, Lynda, SimLab, and other relevent study material.
 
+<img src=https://github.com/bamhm182/WGU-Plus/blob/master/screenshots/WGU%2B%20Example.png"/>
+
 Issues
 -----
 
