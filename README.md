@@ -34,17 +34,17 @@ If you are unfamiliar with Git, feel free to open an Issue with information abou
 
 Resources are added to a <CLASS_ID>.txt file in the links folder.
 
-<CLASS_ID> can be pulled from the class's URL on my.wgu.edu. For example:
-8080002: https://my.wgu.edu/courses/course/8080002/course-material
-7040001: https://my.wgu.edu/courses/course/7040001/course-material
+<CLASS_ID> can be pulled from the class's URL on my.wgu.edu. For example: <br/>
+8080002: https://my.wgu.edu/courses/course/8080002/course-material<br/>
+7040001: https://my.wgu.edu/courses/course/7040001/course-material<br/>
 
 
 Within this file, you will find each resource on its own line in the following format:
 <LINK_TYPE>       | <LINK_NAME>            | <LINK>
 
-<LINK_TYPE>: uCertify, Lynda, LabSim, or TestOut have icons built in. Any other <LINK_TYPE> will have a book as the icon.
-<LINK_NAME>: HTML-Capable Link Name. For example: Lynda or Lynda<br/>(Mike Meyers). This will be displayed to the right of the icon.
-<LINK>: The URL to the resource.
+<LINK_TYPE>: uCertify, Lynda, LabSim, or TestOut have icons built in. Any other <LINK_TYPE> will have a book as the icon.<br/>
+<LINK_NAME>: HTML-Capable Link Name. For example: Lynda or Lynda\<br/\>(Mike Meyers). This will be displayed to the right of the icon.<br/>
+<LINK>: The URL to the resource.<br/>
 
 Before submitting a link, please ensure that it is the most generic form. For example, if I click on a link to open uCertify, I may be taken to https://lrps.wgu.edu/provision/123456789 or https://wgu.ucertify.com/?func=load_course&course=WGU-220-902-complete&class_code=00000&chapter_no=1 both of these links are more complicated than they need to be or may not work for everyone.
 Instead, shorten the link to https://wgu.ucertify.com/?func=load_course&course=WGU-220-902-complete
