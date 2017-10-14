@@ -3,18 +3,10 @@ WGU+ Chrome extension
 
 Installing
 -----
-WGU+ is currently being added to the Chrome Webstore and should be available at the following link shortly:
+
+WGU+ is currently available on the Chrome Webstore via the following link:
 
 [WGU+](https://chrome.google.com/webstore/detail/wgu+/chaofigalhkdhmphgaanmpbapfjlpjpd)
-
-Until is has been added, follow these instructions to install WGU+ immediately:
-
-Go to the dist folder
-Click wgu+.crx
-Click Download
-Open [chrome://extensions](chrome://extensions)
-Drag the downloaded wgu+.crx onto the Extensions webpage
-Click Add extension
 
 Description
 -----
